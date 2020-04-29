@@ -2,14 +2,14 @@ body {
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
-    background-color: #599e4b;
+    background-color: #ee66ba;
 }
 
 
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: #ff9557;
     border-radius: 0;
     border: 0;
 }
@@ -18,15 +18,17 @@ body {
     margin-top: 22px;
 }
 
-.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
-    background-color: #fce29e;
+.navbar-default .navbar-toggle:focus,
+.navbar-default .navbar-toggle:hover {
+    background-color: #9dfd7f;
 }
 
 .navbar-collapse {
     border-top: 0;
 }
 
-.navbar-brand, .navbar-nav li a {
+.navbar-brand,
+.navbar-nav li a {
     line-height: 76px;
     height: 76px;
     padding-top: 0;
@@ -60,7 +62,8 @@ body {
     background-color: #fce29e;
 }
 
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+.navbar-header button.navbar-toggle,
+.navbar-header .icon-bar {
     border: 1px solid #7d1913;
 }
 
@@ -88,7 +91,9 @@ body {
     margin-bottom: 1em;
 }
 
-#chicken-tile, #beef-tile, #sushi-tile {
+#chicken-tile,
+#beef-tile,
+#sushi-tile {
     width: 100%;
     padding: 20px;
     background-color: #99ed7b;
